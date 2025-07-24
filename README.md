@@ -57,14 +57,3 @@ This project analyzes real estate listings in the UAE for 2024 using Python and 
 
 **Next Step**
 Dataset is now ready for Power BI or SQL import for further dashboard creation.
-
----
-
-**Add These Files to Your Repo**
-
-* `README.md`
-* `retail_sales_clean.ipynb`
-* `cleaned_uae_real_estate_2024.csv`
-* 2–3 PNGs in `/screenshots` (from notebook output)
-
-Once committed and pushed, reply: `Week 1 done`.
