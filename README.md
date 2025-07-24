@@ -1,7 +1,3 @@
-Follow this structure for your `README.md`. Use plain, direct language. Keep it factual.
-
----
-
 **Title**
 `UAE Real Estate Data Analysis – 2024 Listings`
 
